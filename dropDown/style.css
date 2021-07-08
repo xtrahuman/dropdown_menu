@@ -9,6 +9,10 @@ body{
     background-position-x: right;
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
+    height: 100vh
+}
+.container{
+    width:100%;
 }
 .menu-bar{
     text-align: center;
